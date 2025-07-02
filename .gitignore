@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Imágenes de contenedor
+*.tar
+
+# Entornos y temporales
+.env
+.DS_Store
